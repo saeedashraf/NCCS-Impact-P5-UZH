@@ -1,0 +1,677 @@
+{
+  "AG": {
+    "Baseline": 331.7807066345549,
+    "Before_Adaptation": {
+      "RCP26": 335.49,
+      "RCP26_high": 344.37,
+      "RCP26_low": 328.73,
+      "RCP45": 338.56,
+      "RCP45_high": 344.91999999999996,
+      "RCP45_low": 331.15999999999997,
+      "RCP85": 339.6,
+      "RCP85_high": 346.28,
+      "RCP85_low": 331.64
+    },
+    "After_Adaptation": {
+      "RCP26": 291.72,
+      "RCP26_high": 305.77,
+      "RCP26_low": 262.57,
+      "RCP45": 292.03,
+      "RCP45_high": 307.5,
+      "RCP45_low": 253.01,
+      "RCP85": 289.17999999999995,
+      "RCP85_high": 308.25,
+      "RCP85_low": 243.95999999999998
+    }
+  },
+  "AI": {
+    "Baseline": 0,
+    "Before_Adaptation": {
+      "RCP26": 0,
+      "RCP26_high": 0,
+      "RCP26_low": 0,
+      "RCP45": 0,
+      "RCP45_high": 0,
+      "RCP45_low": 0,
+      "RCP85": 0,
+      "RCP85_high": 0,
+      "RCP85_low": 0
+    },
+    "After_Adaptation": {
+      "RCP26": 0,
+      "RCP26_high": 0,
+      "RCP26_low": 0,
+      "RCP45": 0,
+      "RCP45_high": 0,
+      "RCP45_low": 0,
+      "RCP85": 0,
+      "RCP85_high": 0,
+      "RCP85_low": 0
+    }
+  },
+  "AR": {
+    "Baseline": 0.16050854233960754,
+    "Before_Adaptation": {
+      "RCP26": 0.2,
+      "RCP26_high": 0.2,
+      "RCP26_low": 0.2,
+      "RCP45": 0.2,
+      "RCP45_high": 0.2,
+      "RCP45_low": 0.2,
+      "RCP85": 0.2,
+      "RCP85_high": 0.2,
+      "RCP85_low": 0.2
+    },
+    "After_Adaptation": {
+      "RCP26": 0.18,
+      "RCP26_high": 0.18,
+      "RCP26_low": 0.18,
+      "RCP45": 0.18,
+      "RCP45_high": 0.18,
+      "RCP45_low": 0.18,
+      "RCP85": 0.18,
+      "RCP85_high": 0.18,
+      "RCP85_low": 0.18
+    }
+  },
+  "BE": {
+    "Baseline": 40.27276954197912,
+    "Before_Adaptation": {
+      "RCP26": 40.15,
+      "RCP26_high": 40.33,
+      "RCP26_low": 39.84,
+      "RCP45": 40.18,
+      "RCP45_high": 40.38,
+      "RCP45_low": 39.870000000000005,
+      "RCP85": 40.12,
+      "RCP85_high": 40.3,
+      "RCP85_low": 39.83
+    },
+    "After_Adaptation": {
+      "RCP26": 35.18,
+      "RCP26_high": 36.010000000000005,
+      "RCP26_low": 32.370000000000005,
+      "RCP45": 34.97,
+      "RCP45_high": 36.07,
+      "RCP45_low": 31.08,
+      "RCP85": 34.47,
+      "RCP85_high": 35.95,
+      "RCP85_low": 29.82
+    }
+  },
+  "BL": {
+    "Baseline": 19.58513136299869,
+    "Before_Adaptation": {
+      "RCP26": 19.7,
+      "RCP26_high": 20.9,
+      "RCP26_low": 19.46,
+      "RCP45": 19.68,
+      "RCP45_high": 20.03,
+      "RCP45_low": 19.43,
+      "RCP85": 19.74,
+      "RCP85_high": 20.86,
+      "RCP85_low": 19.5
+    },
+    "After_Adaptation": {
+      "RCP26": 17.27,
+      "RCP26_high": 18.54,
+      "RCP26_low": 15.64,
+      "RCP45": 17.05,
+      "RCP45_high": 17.8,
+      "RCP45_low": 14.83,
+      "RCP85": 17.02,
+      "RCP85_high": 18.32,
+      "RCP85_low": 14.44
+    }
+  },
+  "BS": {
+    "Baseline": 125.0282927363272,
+    "Before_Adaptation": {
+      "RCP26": 126.87,
+      "RCP26_high": 128.07999999999998,
+      "RCP26_low": 125.68,
+      "RCP45": 127.22,
+      "RCP45_high": 128.32,
+      "RCP45_low": 125.96000000000001,
+      "RCP85": 127.18,
+      "RCP85_high": 128.14,
+      "RCP85_low": 125.92
+    },
+    "After_Adaptation": {
+      "RCP26": 110.73,
+      "RCP26_high": 114.31,
+      "RCP26_low": 100.19,
+      "RCP45": 110.22999999999999,
+      "RCP45_high": 114.64,
+      "RCP45_low": 95.96,
+      "RCP85": 108.78,
+      "RCP85_high": 114.25,
+      "RCP85_low": 91.78
+    }
+  },
+  "FR": {
+    "Baseline": 12.912254170842669,
+    "Before_Adaptation": {
+      "RCP26": 12.9,
+      "RCP26_high": 13.04,
+      "RCP26_low": 12.77,
+      "RCP45": 12.85,
+      "RCP45_high": 12.97,
+      "RCP45_low": 12.73,
+      "RCP85": 12.82,
+      "RCP85_high": 12.94,
+      "RCP85_low": 12.72
+    },
+    "After_Adaptation": {
+      "RCP26": 11.280000000000001,
+      "RCP26_high": 11.62,
+      "RCP26_low": 10.39,
+      "RCP45": 11.14,
+      "RCP45_high": 11.55,
+      "RCP45_low": 9.879999999999999,
+      "RCP85": 10.98,
+      "RCP85_high": 11.51,
+      "RCP85_low": 9.49
+    }
+  },
+  "GE": {
+    "Baseline": 19.026392395623667,
+    "Before_Adaptation": {
+      "RCP26": 18.950000000000003,
+      "RCP26_high": 19.1,
+      "RCP26_low": 18.8,
+      "RCP45": 18.93,
+      "RCP45_high": 19.08,
+      "RCP45_low": 18.79,
+      "RCP85": 18.92,
+      "RCP85_high": 19.08,
+      "RCP85_low": 18.78
+    },
+    "After_Adaptation": {
+      "RCP26": 16.28,
+      "RCP26_high": 16.96,
+      "RCP26_low": 14.49,
+      "RCP45": 16.09,
+      "RCP45_high": 16.93,
+      "RCP45_low": 13.69,
+      "RCP85": 15.74,
+      "RCP85_high": 16.86,
+      "RCP85_low": 12.969999999999999
+    }
+  },
+  "GL": {
+    "Baseline": 25.61368285303514,
+    "Before_Adaptation": {
+      "RCP26": 42.92,
+      "RCP26_high": 43.29,
+      "RCP26_low": 41.93,
+      "RCP45": 43.010000000000005,
+      "RCP45_high": 43.32,
+      "RCP45_low": 42.65,
+      "RCP85": 43,
+      "RCP85_high": 43.33,
+      "RCP85_low": 42.14
+    },
+    "After_Adaptation": {
+      "RCP26": 37.71,
+      "RCP26_high": 38.66,
+      "RCP26_low": 35.04,
+      "RCP45": 37.73,
+      "RCP45_high": 38.71,
+      "RCP45_low": 34.18,
+      "RCP85": 37.19,
+      "RCP85_high": 38.66,
+      "RCP85_low": 32.69
+    }
+  },
+  "GR": {
+    "Baseline": 767.2736701383155,
+    "Before_Adaptation": {
+      "RCP26": 781.46,
+      "RCP26_high": 799.3399999999999,
+      "RCP26_low": 756.76,
+      "RCP45": 788.19,
+      "RCP45_high": 805.69,
+      "RCP45_low": 765.0799999999999,
+      "RCP85": 791.1800000000001,
+      "RCP85_high": 808.4100000000001,
+      "RCP85_low": 769.22
+    },
+    "After_Adaptation": {
+      "RCP26": 679.12,
+      "RCP26_high": 711.3499999999999,
+      "RCP26_low": 612.65,
+      "RCP45": 678.3199999999999,
+      "RCP45_high": 717.45,
+      "RCP45_low": 588.0699999999999,
+      "RCP85": 671.05,
+      "RCP85_high": 717.3699999999999,
+      "RCP85_low": 563.94
+    }
+  },
+  "JU": {
+    "Baseline": 1.2390132199489785,
+    "Before_Adaptation": {
+      "RCP26": 1.86,
+      "RCP26_high": 1.88,
+      "RCP26_low": 1.83,
+      "RCP45": 1.84,
+      "RCP45_high": 1.86,
+      "RCP45_low": 1.82,
+      "RCP85": 1.84,
+      "RCP85_high": 1.86,
+      "RCP85_low": 1.82
+    },
+    "After_Adaptation": {
+      "RCP26": 1.61,
+      "RCP26_high": 1.66,
+      "RCP26_low": 1.44,
+      "RCP45": 1.59,
+      "RCP45_high": 1.66,
+      "RCP45_low": 1.3599999999999999,
+      "RCP85": 1.56,
+      "RCP85_high": 1.66,
+      "RCP85_low": 1.29
+    }
+  },
+  "LU": {
+    "Baseline": 0.3550097965099608,
+    "Before_Adaptation": {
+      "RCP26": 0.36,
+      "RCP26_high": 0.36,
+      "RCP26_low": 0.36,
+      "RCP45": 0.36,
+      "RCP45_high": 0.36,
+      "RCP45_low": 0.36,
+      "RCP85": 0.36,
+      "RCP85_high": 0.36,
+      "RCP85_low": 0.36
+    },
+    "After_Adaptation": {
+      "RCP26": 0.32,
+      "RCP26_high": 0.32,
+      "RCP26_low": 0.28,
+      "RCP45": 0.31,
+      "RCP45_high": 0.32,
+      "RCP45_low": 0.28,
+      "RCP85": 0.3,
+      "RCP85_high": 0.32,
+      "RCP85_low": 0.26
+    }
+  },
+  "NE": {
+    "Baseline": 21.765100971031348,
+    "Before_Adaptation": {
+      "RCP26": 21.86,
+      "RCP26_high": 21.96,
+      "RCP26_low": 21.78,
+      "RCP45": 21.83,
+      "RCP45_high": 21.92,
+      "RCP45_low": 21.76,
+      "RCP85": 21.8,
+      "RCP85_high": 21.89,
+      "RCP85_low": 21.729999999999997
+    },
+    "After_Adaptation": {
+      "RCP26": 19.16,
+      "RCP26_high": 19.6,
+      "RCP26_low": 17.63,
+      "RCP45": 19.009999999999998,
+      "RCP45_high": 19.57,
+      "RCP45_low": 16.88,
+      "RCP85": 18.73,
+      "RCP85_high": 19.509999999999998,
+      "RCP85_low": 16.189999999999998
+    }
+  },
+  "NW": {
+    "Baseline": 81.95845827168624,
+    "Before_Adaptation": {
+      "RCP26": 137.96,
+      "RCP26_high": 141.05,
+      "RCP26_low": 135.28,
+      "RCP45": 138.51,
+      "RCP45_high": 141.63,
+      "RCP45_low": 135.95999999999998,
+      "RCP85": 139.18,
+      "RCP85_high": 142.01999999999998,
+      "RCP85_low": 136.37
+    },
+    "After_Adaptation": {
+      "RCP26": 123.02,
+      "RCP26_high": 126.68,
+      "RCP26_low": 119.06,
+      "RCP45": 123.17,
+      "RCP45_high": 127.16,
+      "RCP45_low": 117.99000000000001,
+      "RCP85": 123.32,
+      "RCP85_high": 127.53999999999999,
+      "RCP85_low": 116.80000000000001
+    }
+  },
+  "OW": {
+    "Baseline": 19.868689658126087,
+    "Before_Adaptation": {
+      "RCP26": 38.9,
+      "RCP26_high": 39.29,
+      "RCP26_low": 38.74,
+      "RCP45": 38.91,
+      "RCP45_high": 39.31,
+      "RCP45_low": 38.75,
+      "RCP85": 38.989999999999995,
+      "RCP85_high": 39.43,
+      "RCP85_low": 38.79
+    },
+    "After_Adaptation": {
+      "RCP26": 34.730000000000004,
+      "RCP26_high": 35.129999999999995,
+      "RCP26_low": 33.84,
+      "RCP45": 34.68,
+      "RCP45_high": 35.11,
+      "RCP45_low": 33.16,
+      "RCP85": 34.629999999999995,
+      "RCP85_high": 35.2,
+      "RCP85_low": 32.69
+    }
+  },
+  "SG": {
+    "Baseline": 96.31335450643161,
+    "Before_Adaptation": {
+      "RCP26": 96.3,
+      "RCP26_high": 97.33,
+      "RCP26_low": 95.42,
+      "RCP45": 95.96,
+      "RCP45_high": 97.13,
+      "RCP45_low": 95.28999999999999,
+      "RCP85": 96.03,
+      "RCP85_high": 97.34,
+      "RCP85_low": 95.38
+    },
+    "After_Adaptation": {
+      "RCP26": 85.81,
+      "RCP26_high": 86.95,
+      "RCP26_low": 82.85,
+      "RCP45": 85.37,
+      "RCP45_high": 86.56,
+      "RCP45_low": 81.06,
+      "RCP85": 85.16,
+      "RCP85_high": 86.65,
+      "RCP85_low": 79.93
+    }
+  },
+  "SH": {
+    "Baseline": 14.066384731290881,
+    "Before_Adaptation": {
+      "RCP26": 15.82,
+      "RCP26_high": 15.86,
+      "RCP26_low": 15.8,
+      "RCP45": 15.82,
+      "RCP45_high": 15.86,
+      "RCP45_low": 15.8,
+      "RCP85": 15.84,
+      "RCP85_high": 15.86,
+      "RCP85_low": 15.8
+    },
+    "After_Adaptation": {
+      "RCP26": 13.92,
+      "RCP26_high": 14.18,
+      "RCP26_low": 12.77,
+      "RCP45": 13.83,
+      "RCP45_high": 14.18,
+      "RCP45_low": 12.219999999999999,
+      "RCP85": 13.68,
+      "RCP85_high": 14.16,
+      "RCP85_low": 11.780000000000001
+    }
+  },
+  "SO": {
+    "Baseline": 15.447413188268664,
+    "Before_Adaptation": {
+      "RCP26": 15.46,
+      "RCP26_high": 15.56,
+      "RCP26_low": 15.370000000000001,
+      "RCP45": 15.48,
+      "RCP45_high": 15.56,
+      "RCP45_low": 15.39,
+      "RCP85": 15.5,
+      "RCP85_high": 15.58,
+      "RCP85_low": 15.39
+    },
+    "After_Adaptation": {
+      "RCP26": 13.54,
+      "RCP26_high": 13.89,
+      "RCP26_low": 12.379999999999999,
+      "RCP45": 13.469999999999999,
+      "RCP45_high": 13.91,
+      "RCP45_low": 11.850000000000001,
+      "RCP85": 13.309999999999999,
+      "RCP85_high": 13.9,
+      "RCP85_low": 11.39
+    }
+  },
+  "SZ": {
+    "Baseline": 9.79728521431046,
+    "Before_Adaptation": {
+      "RCP26": 10.28,
+      "RCP26_high": 10.3,
+      "RCP26_low": 10.26,
+      "RCP45": 10.28,
+      "RCP45_high": 10.3,
+      "RCP45_low": 10.26,
+      "RCP85": 10.28,
+      "RCP85_high": 10.3,
+      "RCP85_low": 10.27
+    },
+    "After_Adaptation": {
+      "RCP26": 9.18,
+      "RCP26_high": 9.22,
+      "RCP26_low": 8.93,
+      "RCP45": 9.18,
+      "RCP45_high": 9.22,
+      "RCP45_low": 8.77,
+      "RCP85": 9.15,
+      "RCP85_high": 9.22,
+      "RCP85_low": 8.629999999999999
+    }
+  },
+  "TG": {
+    "Baseline": 159.90620654789814,
+    "Before_Adaptation": {
+      "RCP26": 163.34,
+      "RCP26_high": 165,
+      "RCP26_low": 162.18,
+      "RCP45": 163.05,
+      "RCP45_high": 164.87,
+      "RCP45_low": 161.87,
+      "RCP85": 163.32999999999998,
+      "RCP85_high": 165.25,
+      "RCP85_low": 162.11
+    },
+    "After_Adaptation": {
+      "RCP26": 144.16,
+      "RCP26_high": 147.07,
+      "RCP26_low": 135.04,
+      "RCP45": 143.12,
+      "RCP45_high": 146.75,
+      "RCP45_low": 129.86,
+      "RCP85": 142.23000000000002,
+      "RCP85_high": 146.88,
+      "RCP85_low": 126.43
+    }
+  },
+  "TI": {
+    "Baseline": 106.0204757053605,
+    "Before_Adaptation": {
+      "RCP26": 106.19,
+      "RCP26_high": 106.52000000000001,
+      "RCP26_low": 105.98,
+      "RCP45": 106.19,
+      "RCP45_high": 106.53999999999999,
+      "RCP45_low": 105.99000000000001,
+      "RCP85": 106.25,
+      "RCP85_high": 106.66,
+      "RCP85_low": 106.02000000000001
+    },
+    "After_Adaptation": {
+      "RCP26": 91.54,
+      "RCP26_high": 94.36,
+      "RCP26_low": 86.06,
+      "RCP45": 90.56,
+      "RCP45_high": 94.16,
+      "RCP45_low": 83.2,
+      "RCP85": 89.28999999999999,
+      "RCP85_high": 93.64,
+      "RCP85_low": 80.54
+    }
+  },
+  "UR": {
+    "Baseline": 12.44200794423628,
+    "Before_Adaptation": {
+      "RCP26": 19.4,
+      "RCP26_high": 19.5,
+      "RCP26_low": 19.34,
+      "RCP45": 19.4,
+      "RCP45_high": 19.509999999999998,
+      "RCP45_low": 19.34,
+      "RCP85": 19.42,
+      "RCP85_high": 19.52,
+      "RCP85_low": 19.34
+    },
+    "After_Adaptation": {
+      "RCP26": 17.07,
+      "RCP26_high": 17.41,
+      "RCP26_low": 15.940000000000001,
+      "RCP45": 16.939999999999998,
+      "RCP45_high": 17.42,
+      "RCP45_low": 15.26,
+      "RCP85": 16.77,
+      "RCP85_high": 17.4,
+      "RCP85_low": 14.7
+    }
+  },
+  "VD": {
+    "Baseline": 7.510061692046589,
+    "Before_Adaptation": {
+      "RCP26": 7.48,
+      "RCP26_high": 7.52,
+      "RCP26_low": 7.42,
+      "RCP45": 7.46,
+      "RCP45_high": 7.5,
+      "RCP45_low": 7.41,
+      "RCP85": 7.45,
+      "RCP85_high": 7.5,
+      "RCP85_low": 7.4
+    },
+    "After_Adaptation": {
+      "RCP26": 6.529999999999999,
+      "RCP26_high": 6.7,
+      "RCP26_low": 5.960000000000001,
+      "RCP45": 6.460000000000001,
+      "RCP45_high": 6.6899999999999995,
+      "RCP45_low": 5.66,
+      "RCP85": 6.359999999999999,
+      "RCP85_high": 6.67,
+      "RCP85_low": 5.41
+    }
+  },
+  "VS": {
+    "Baseline": 360.40549772445667,
+    "Before_Adaptation": {
+      "RCP26": 363.17,
+      "RCP26_high": 366.82,
+      "RCP26_low": 359.12,
+      "RCP45": 361.53999999999996,
+      "RCP45_high": 365.55,
+      "RCP45_low": 357.63,
+      "RCP85": 362.56,
+      "RCP85_high": 365.87,
+      "RCP85_low": 358.83
+    },
+    "After_Adaptation": {
+      "RCP26": 310.98,
+      "RCP26_high": 325.01,
+      "RCP26_low": 280.69,
+      "RCP45": 304.15,
+      "RCP45_high": 322.74,
+      "RCP45_low": 261.22,
+      "RCP85": 298.28,
+      "RCP85_high": 321.99,
+      "RCP85_low": 246.75
+    }
+  },
+  "ZG": {
+    "Baseline": 3.0735258081117385,
+    "Before_Adaptation": {
+      "RCP26": 3.42,
+      "RCP26_high": 3.44,
+      "RCP26_low": 3.42,
+      "RCP45": 3.44,
+      "RCP45_high": 3.44,
+      "RCP45_low": 3.42,
+      "RCP85": 3.44,
+      "RCP85_high": 3.44,
+      "RCP85_low": 3.42
+    },
+    "After_Adaptation": {
+      "RCP26": 3.01,
+      "RCP26_high": 3.0700000000000003,
+      "RCP26_low": 2.78,
+      "RCP45": 2.99,
+      "RCP45_high": 3.08,
+      "RCP45_low": 2.66,
+      "RCP85": 2.95,
+      "RCP85_high": 3.0700000000000003,
+      "RCP85_low": 2.56
+    }
+  },
+  "ZH": {
+    "Baseline": 231.92824687039467,
+    "Before_Adaptation": {
+      "RCP26": 232.32999999999998,
+      "RCP26_high": 241.15,
+      "RCP26_low": 231.03,
+      "RCP45": 232.60000000000002,
+      "RCP45_high": 236.13,
+      "RCP45_low": 231.03,
+      "RCP85": 233.55,
+      "RCP85_high": 240.46,
+      "RCP85_low": 231.68
+    },
+    "After_Adaptation": {
+      "RCP26": 205.63,
+      "RCP26_high": 214.70999999999998,
+      "RCP26_low": 191.55,
+      "RCP45": 204.34,
+      "RCP45_high": 210.38,
+      "RCP45_low": 184.1,
+      "RCP85": 203.92000000000002,
+      "RCP85_high": 214.04,
+      "RCP85_low": 180.44
+    }
+  },
+  "SWISS": {
+    "Baseline": 2483.750140226125,
+    "Before_Adaptation": {
+      "RCP26": 2612.7699999999995,
+      "RCP26_high": 2662.1899999999996,
+      "RCP26_low": 2567.5,
+      "RCP45": 2621.49,
+      "RCP45_high": 2662.38,
+      "RCP45_low": 2577.95,
+      "RCP85": 2628.5800000000004,
+      "RCP85_high": 2672.88,
+      "RCP85_low": 2584.66
+    },
+    "After_Adaptation": {
+      "RCP26": 2279.6800000000003,
+      "RCP26_high": 2369.36,
+      "RCP26_low": 2090.7200000000003,
+      "RCP45": 2266.91,
+      "RCP45_high": 2369.7400000000002,
+      "RCP45_low": 2006.41,
+      "RCP85": 2244.2299999999996,
+      "RCP85_high": 2373.2000000000007,
+      "RCP85_low": 1935.0600000000004
+    }
+  }
+}
